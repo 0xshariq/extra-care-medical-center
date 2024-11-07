@@ -62,5 +62,6 @@ To get a local copy up and running, follow these steps:
 Start the development server:
 ```sh
 npm run dev
+```
 
 Your website will be available at [http://localhost:3000](http://localhost:3000)
