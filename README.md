@@ -14,7 +14,7 @@ A modern, responsive website designed for a hospital to showcase its services, f
 
 ## Project Purpose
 
-The Hospital Website aims to provide patients and visitors with essential information about the hospital’s services, medical staff, and facilities, as well as offer a convenient way to contact and make appointments. This website enhances the hospital's online presence and makes it easy for users to navigate healthcare information from any device.
+The Extra Care Medical Center aims to provide patients and visitors with essential information about the hospital’s services, medical staff, and facilities, as well as offer a convenient way to contact and make appointments. This website enhances the hospital's online presence and makes it easy for users to navigate healthcare information from any device.
 
 ## Features
 
