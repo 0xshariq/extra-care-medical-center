@@ -33,7 +33,7 @@ The Hospital Website aims to provide patients and visitors with essential inform
 - **Deployment**: Hosted on Vercel
 
 ## Project Structure
-'''bash
+```bash
 
 hospital-website/
 │
@@ -58,4 +58,4 @@ hospital-website/
 │
 ├── README.md              # Project documentation
 └── package.json           # Project dependencies
-'''
+```
