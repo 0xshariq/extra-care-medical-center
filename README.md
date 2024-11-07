@@ -1,37 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hospital Website
 
-## Getting Started
+A modern, responsive website designed for a hospital to showcase its services, facilities, team, and contact options. This project serves as an online platform to provide easy access to hospital information and streamline patient communication.
 
-First, run the development server:
+## Table of Contents
+- [Project Purpose](#project-purpose)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Project Purpose
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The Hospital Website aims to provide patients and visitors with essential information about the hospital’s services, medical staff, and facilities, as well as offer a convenient way to contact and make appointments. This website enhances the hospital's online presence and makes it easy for users to navigate healthcare information from any device.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Home Page**: An overview of the hospital, including an introduction and mission.
+- **Services Section**: Detailed information about available medical services.
+- **Doctors' Profiles**: Profiles for each doctor, including specialties, experience, and qualifications.
+- **Appointment Booking**: An option for users to book appointments or make inquiries online.
+- **Contact Page**: Location map, contact form, phone numbers, and email for easy access.
+- **Responsive Design**: Mobile-friendly layout to ensure optimal viewing on all devices.
+- **Secure and Fast**: Hosted on Vercel with optimizations for quick load times and reliability.
 
-## Learn More
+## Technologies Used
 
-To learn more about Next.js, take a look at the following resources:
+- **Frontend**: Next.js (React-based framework)
+- **Styling**: CSS Modules or styled-components (adjust based on your setup)
+- **Deployment**: Hosted on Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
+## Project Structure
