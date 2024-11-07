@@ -6,7 +6,6 @@ A modern, responsive website designed for a hospital to showcase its services, f
 - [Project Purpose](#project-purpose)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
@@ -32,32 +31,6 @@ The Hospital Website aims to provide patients and visitors with essential inform
 - **Styling**: CSS Modules or styled-components (adjust based on your setup)
 - **Deployment**: Hosted on Vercel
 
-## Project Structure
-```bash
-
-hospital-website/
-│
-├── public/                # Static assets (images, icons, etc.)
-├── pages/                 # Next.js pages
-│   ├── index.js           # Home page
-│   ├── services.js        # Services page
-│   ├── doctors.js         # Doctors' profiles
-│   ├── appointment.js     # Appointment booking page
-│   ├── contact.js         # Contact page
-│   └── _app.js            # Custom App component
-│
-├── components/            # Reusable components
-│   ├── Navbar.tsx         # Navigation bar component
-│   ├── Footer.tsx         # Footer component
-│   ├── DoctorCard.tsx     # Doctor profile cards
-│   └── ContactForm.tsx     # Contact form component
-│
-├── styles/                # CSS files or styled components
-│   └── globals.css        # Global styles
-│
-├── README.md              # Project documentation
-└── package.json           # Project dependencies
-```
 
 ## Getting Started
 
