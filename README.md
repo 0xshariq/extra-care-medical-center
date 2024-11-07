@@ -33,3 +33,29 @@ The Hospital Website aims to provide patients and visitors with essential inform
 - **Deployment**: Hosted on Vercel
 
 ## Project Structure
+'''bash
+
+hospital-website/
+│
+├── public/                # Static assets (images, icons, etc.)
+├── pages/                 # Next.js pages
+│   ├── index.js           # Home page
+│   ├── services.js        # Services page
+│   ├── doctors.js         # Doctors' profiles
+│   ├── appointment.js     # Appointment booking page
+│   ├── contact.js         # Contact page
+│   └── _app.js            # Custom App component
+│
+├── components/            # Reusable components
+│   ├── Navbar.js          # Navigation bar component
+│   ├── Footer.js          # Footer component
+│   ├── DoctorCard.js      # Doctor profile cards
+│   ├── ServiceCard.js     # Cards for displaying services
+│   └── ContactForm.js     # Contact form component
+│
+├── styles/                # CSS files or styled components
+│   └── globals.css        # Global styles
+│
+├── README.md              # Project documentation
+└── package.json           # Project dependencies
+'''
