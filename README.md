@@ -47,11 +47,10 @@ hospital-website/
 │   └── _app.js            # Custom App component
 │
 ├── components/            # Reusable components
-│   ├── Navbar.js          # Navigation bar component
-│   ├── Footer.js          # Footer component
-│   ├── DoctorCard.js      # Doctor profile cards
-│   ├── ServiceCard.js     # Cards for displaying services
-│   └── ContactForm.js     # Contact form component
+│   ├── Navbar.tsx         # Navigation bar component
+│   ├── Footer.tsx         # Footer component
+│   ├── DoctorCard.tsx     # Doctor profile cards
+│   └── ContactForm.tsx     # Contact form component
 │
 ├── styles/                # CSS files or styled components
 │   └── globals.css        # Global styles
@@ -59,3 +58,34 @@ hospital-website/
 ├── README.md              # Project documentation
 └── package.json           # Project dependencies
 ```
+
+## Getting Started
+
+To get a local copy up and running, follow these steps:
+
+### Prerequisites
+
+- Node.js and npm installed on your system
+
+### Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/hospital-website.git
+    ```
+
+2. Navigate to the project directory:
+    ```sh
+    cd hospital-website
+    ```
+
+3. Install dependencies:
+    ```sh
+    npm install
+    ```
+
+### Running the Project
+
+Start the development server:
+```sh
+npm run dev
