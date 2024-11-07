@@ -37,9 +37,9 @@ The Hospital Website aims to provide patients and visitors with essential inform
 
 Follow us on social media:
 
-- [X](https://x.com/your-handle)
-- [Instagram](https://instagram.com/your-handle)
-- [LinkedIn](https://linkedin.com/in/your-handle)
+- [X](
+- [Instagram](https://www.instagram.com/extracareuae)
+- [LinkedIn](
 -[Facebook](https://www.facebook.com/people/Extra-Care-Medical-Center/61551124427651/?mibextid=qi2Omg&rdid=O5vrYZVcPf6SZs0R&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FhzdkPWRCAXBqRh4h%2F%3Fmibextid%3Dqi2Omg)
 
 ## Getting Started
