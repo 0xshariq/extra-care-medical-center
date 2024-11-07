@@ -1,4 +1,4 @@
-# Hospital Website
+# Extra Care Medical Center
 
 A modern, responsive website designed for a hospital to showcase its services, facilities, team, and contact options. This project serves as an online platform to provide easy access to hospital information and streamline patient communication.
 
