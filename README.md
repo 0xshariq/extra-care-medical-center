@@ -65,3 +65,33 @@ npm run dev
 ```
 
 Your website will be available at [http://localhost:3000](http://localhost:3000)
+
+## Deployment
+
+This project is deployed on Vercel. Follow these steps to redeploy:
+
+1. Push changes to the main branch on GitHub.
+2. Vercel will automatically deploy the updates.
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch:
+    ```sh
+    git checkout -b feature/YourFeature
+    ```
+3. Make your changes and commit them:
+    ```sh
+    git commit -m 'Add new feature'
+    ```
+4. Push to the branch:
+    ```sh
+    git push origin feature/YourFeature
+    ```
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License.
