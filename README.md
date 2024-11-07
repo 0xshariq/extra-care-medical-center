@@ -9,6 +9,7 @@ A modern, responsive website designed for a hospital to showcase its services, f
 - [Getting Started](#getting-started)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
+- [Social Media](#social-media)
 - [License](#license)
 
 ## Project Purpose
@@ -91,6 +92,16 @@ Contributions are welcome! To contribute:
     git push origin feature/YourFeature
     ```
 5. Open a pull request.
+
+## Social Media
+
+Follow us on social media:
+
+- [Twitter](https://twitter.com/your-handle)
+- [Instagram](https://instagram.com/your-handle)
+- [LinkedIn](https://linkedin.com/in/your-handle)
+-[Facebook](https://twitter.com/your-handle)
+
 
 ## License
 
