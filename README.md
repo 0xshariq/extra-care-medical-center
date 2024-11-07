@@ -6,10 +6,10 @@ A modern, responsive website designed for a hospital to showcase its services, f
 - [Project Purpose](#project-purpose)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Social Media](#social-media)
 - [Getting Started](#getting-started)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [Social Media](#social-media)
 - [License](#license)
 
 ## Project Purpose
@@ -32,6 +32,15 @@ The Hospital Website aims to provide patients and visitors with essential inform
 - **Styling**: CSS Modules or styled-components (adjust based on your setup)
 - **Deployment**: Hosted on Vercel
 
+
+## Social Media
+
+Follow us on social media:
+
+- [X](https://x.com/your-handle)
+- [Instagram](https://instagram.com/your-handle)
+- [LinkedIn](https://linkedin.com/in/your-handle)
+-[Facebook](https://www.facebook.com/people/Extra-Care-Medical-Center/61551124427651/?mibextid=qi2Omg&rdid=O5vrYZVcPf6SZs0R&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FhzdkPWRCAXBqRh4h%2F%3Fmibextid%3Dqi2Omg)
 
 ## Getting Started
 
@@ -92,16 +101,6 @@ Contributions are welcome! To contribute:
     git push origin feature/YourFeature
     ```
 5. Open a pull request.
-
-## Social Media
-
-Follow us on social media:
-
-- [X](https://x.com/your-handle)
-- [Instagram](https://instagram.com/your-handle)
-- [LinkedIn](https://linkedin.com/in/your-handle)
--[Facebook](https://www.facebook.com/people/Extra-Care-Medical-Center/61551124427651/?mibextid=qi2Omg&rdid=O5vrYZVcPf6SZs0R&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FhzdkPWRCAXBqRh4h%2F%3Fmibextid%3Dqi2Omg)
-
 
 ## License
 
