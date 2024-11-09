@@ -54,7 +54,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/hospital-website.git
+    git clone https://github.com/0xshariq/extra-care-medical-center.git
     ```
 
 2. Navigate to the project directory:
